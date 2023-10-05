@@ -1,6 +1,6 @@
 Title: First Post on Github Pages Website
 Date: 2023-10-05 12:25
-Catagory: blog
+Category: blog
 
 # Setting up the blog
 
